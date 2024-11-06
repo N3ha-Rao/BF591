@@ -1,6 +1,7 @@
 # **BF591: R for Biological Sciences**
 
 Welcome to the **BF591: R for Biological Sciences** course repository! This repository contains all the assignments for the course, and each assignment follows a similar format and workflow. Below is a description of the assignment structure and how the files interact.
+[Course overview](https://bu-bioinfo.github.io/r-for-biological-sciences/index.html)
 
 ---
 
@@ -36,9 +37,3 @@ The repository for each assignment will have the following files:
 
 - **`test_main.R`**  
   This file contains a **testing script** that ensures the code is running as expected. It sources the `main.R` script, executing it and checking the functions and outputs. The tests will help identify any issues with your code and verify the results.
-
-Good luck, and happy coding! ✨
-
----
-
-This version adds headers, formatting, and some helpful touches like bolding and better organization, which will make the file easier to read and more appealing to users.
