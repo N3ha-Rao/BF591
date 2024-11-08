@@ -1,6 +1,5 @@
 # Data Science Basics: Analyzing High-Dimensional Gene Expression Data
 
----
 
 ## Problem Statement
 High dimensional data is typically time and resource-intensive to analyze, interpret and visualize. Gene expression data (including microarray data) often consists of measurements for tens of thousands of known genes for every sample. Learning methods to inspect, reduce and display high dimensional data is necessary for many machine learning and bioinformatics problems.
